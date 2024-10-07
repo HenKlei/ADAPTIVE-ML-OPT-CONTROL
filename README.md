@@ -20,7 +20,7 @@
 In this repository, we provide the code used for the numerical experiments in the paper "Application of an adaptive
 model hierarchy to parametrized optimal control problems" by Hendrik Kleikamp.
 
-You find the preprint [here](https://arxiv.org/abs/2402...).
+You find the paper [here](http://www.iam.fmph.uniba.sk/amuc/ojs/index.php/algoritmy/article/view/2145) (the preprint is available [here](https://arxiv.org/abs/2402.10708)).
 
 ## Installation
 On a system with `git` (`sudo apt install git`), `python3` (`sudo apt install python3-dev`) and
